@@ -1,6 +1,6 @@
 ## three-dolphin-geometry-loader
 
-uses [three-stl-loader](https://github.com/enspiral-cherubi/three-stl-loader) and [rusty smith's dolphin.stl](https://grabcad.com/library/dolphin-9) to load a sick three.js dolphin geometry
+uses [three-stl-loader](https://github.com/enspiral-cherubi/three-stl-loader) and [rusty smith's dolphin.stl](https://grabcad.com/library/dolphin-9) to load a sick dolphin-shaped [THREE.BufferGeometry](http://threejs.org/docs/#Reference/Core/BufferGeometry)
 
 ### install
 
